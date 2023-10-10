@@ -381,7 +381,7 @@ background-size: cover;
     position: relative;
     overflow: hidden;
 }
-.portfolio-list-item:hover .cover-text {
+.portfolio-list-item:hover {
 transform: translateY(0%);
   }
 .cover-text {
