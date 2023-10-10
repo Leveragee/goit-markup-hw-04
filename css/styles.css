@@ -381,9 +381,10 @@ background-size: cover;
     position: relative;
     overflow: hidden;
 }
-.portfolio-list-item:hover {
-transform: translateY(0%);
-  }
+.portfolio-subtitle:hover .cover-text {
+    transform: translateY(0);
+}
+  
 .cover-text {
     color: #f4f4fd;
     font-family: Roboto;
