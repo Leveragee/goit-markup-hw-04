@@ -382,7 +382,7 @@ background-size: cover;
     overflow: hidden;
 }
 .portfolio-list-item:hover .cover-text {
-    transform: translateY(0);
+transform: translateY(0%);
   }
 .cover-text {
     color: #f4f4fd;
