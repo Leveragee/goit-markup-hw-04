@@ -51,7 +51,7 @@ background-color: #fff;
   justify-content: space-between;
 }
 .header-logo {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     color: #4d5ae5;
     font-size: 18px;
     font-weight: 700;
@@ -387,7 +387,7 @@ background-size: cover;
   
 .cover-text {
     color: #f4f4fd;
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
