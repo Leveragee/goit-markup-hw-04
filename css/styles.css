@@ -51,8 +51,8 @@ background-color: #fff;
   justify-content: space-between;
 }
 .header-logo {
+    font-family: Roboto;
     color: #4d5ae5;
-    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -89,7 +89,7 @@ background-color: #fff;
 .header-link:active {
     color: #404bbf;
 }
-.header-link::after {
+.current:after {
     color: #404bbf;
     content: "";
     position: absolute;
